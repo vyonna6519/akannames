@@ -10,6 +10,9 @@
 
 .heading {
     color: white;
-    padding: 150px;
+    padding: 250px;
 }
-heading h1
+.heading h1 {
+font-size: 82px;
+font-weight: bold;
+}
