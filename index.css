@@ -16,3 +16,14 @@
 font-size: 82px;
 font-weight: bold;
 }
+
+.heading h2 {
+    font-size: 82px;
+    font-weight: bold;
+    padding: 20px;
+    }
+.heading p {
+    font-size: 32px;
+    font-weight: bold;
+    padding: 30px;
+}
