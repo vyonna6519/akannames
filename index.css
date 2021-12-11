@@ -11,9 +11,12 @@
 .heading {
     color: white;
     padding: 250px;
+    background: rgba(0, 0 , 0 ,0.5);
+    border: 1px;
+    border-color: white;
 }
 .heading h1 {
-font-size: 82px;
+font-size: 92px;
 font-weight: bold;
 }
 
