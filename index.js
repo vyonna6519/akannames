@@ -6,10 +6,6 @@ function getBirthday() {
     let dateStr = new Date(dob);
     let dayofWeek = dateStr.getDay();
 
-     //console.log(dayofWeek);
-     //console.log(gender);
-
-
      getAkanName(dayofWeek, gender);
 
 };

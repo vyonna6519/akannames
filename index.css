@@ -124,7 +124,8 @@ font-weight: bold;
 .birthday {
     display: flex;
     flex-direction: vertical;
-    margin-bottom: 20px;
+    margin-top: 20px;
+    m
 }
 
 #start {
