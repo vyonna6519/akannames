@@ -64,8 +64,14 @@ font-weight: bold;
 }
 
 .fill{
-    height: 250px;
+    height: 300px;
 
+}
+
+.fill h6 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
 }
 
 .form{
@@ -77,6 +83,11 @@ font-weight: bold;
     display: flex;
     flex-direction: vertical;
     margin-bottom: 20px;
+}
+
+.button {
+    color: black;
+    margin-top: 10px;
 }
 
 .footer{
