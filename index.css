@@ -40,3 +40,13 @@ font-weight: bold;
 .image {
     background-size: 50%;
 }
+
+.row .btn {
+    border: 1px solid red;
+    border-radius: 15px;
+    padding: 10px;
+    color: white;
+    background: #9C4F3E;
+    margin-top: 10px;
+}
+
