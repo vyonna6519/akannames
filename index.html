@@ -69,32 +69,35 @@
 
       </div>
     </div>
-  <div class="fill">
+    <section class="fill"  id="akan"> 
+      <div class="container">
+          <div class="row">
+              <h6 class="game-head text-center">Find Your Akan Name:</h6>
+              <div class="column">
+                  <form class="form-align">
+                      <div class="form-group col-sm-4">
+                          <label class="gender" for="inputState">Gender</label>
+                          <select id="gender" class="form-control">
+                              <option></option>
+                              <option>Male </option>
+                              <option>Female</option>
+                          </select>
+                      </div>
+                      <div class="form-group">
+                          <label class="birthday" S for="start">Date of Birth:</label>
+                          <input type="date" id="start" name="trip-start"
+                              value="2021-07-10"
+                              min="1900-01-01" max="2021-12-31">
+                      </div>
+                      <button type="button" class="btn btn-primary" onclick=" getBirthday()">Submit</button>
+                  </form>
+              </div>
+          </div>
+      </div>
 
-    <h6>Find your Akan Name</h6>
-      <form action="" class="form">
-      <div class="birthday">
-        <label for="start">Birthday date:</label>
-
-          <input type="date" id="start" name="trip-start"
-                value="2018-07-22"
-                min="1980-01-01" max="2021-12-31">
-       </div>
-
-       <div class="gender">
-        <input type="checkbox" id="male" name="male">
-        <label for="Male">Male</label>
-        <input type="checkbox" id="female" name="female"
-        checked>
-       <label for="female">Female</label>
-       </div>
-
-       <input class="button" type="submit" value="submit">
-       
-    </form>
-  </div>
+      <p  class = "game-head" id ="Akandisplay"></p>
+  </section>
     
-
     <footer>
       <div class="footer">
         <p>Design by Vyonna Njenga</p>
