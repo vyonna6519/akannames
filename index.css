@@ -63,6 +63,11 @@ font-weight: bold;
     cursor: pointer;
 }
 
+.birthday {
+    display: flex;
+    flex-direction: vertical;
+}
+
 .footer{
     background-color: #9C4F3E;
     display: flex;
