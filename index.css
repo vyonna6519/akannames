@@ -63,9 +63,20 @@ font-weight: bold;
     cursor: pointer;
 }
 
+.fill{
+    height: 250px;
+
+}
+
+.form{
+    margin: auto;
+    width: 500px;
+    padding-top: 80px;
+}
 .birthday {
     display: flex;
     flex-direction: vertical;
+    margin-bottom: 20px;
 }
 
 .footer{
