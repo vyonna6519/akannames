@@ -36,3 +36,7 @@ font-weight: bold;
     padding: 30px;
     font-size: 40px;
 }
+
+.image {
+    background-size: 50%;
+}
