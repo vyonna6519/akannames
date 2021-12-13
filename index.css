@@ -61,6 +61,7 @@ font-weight: bold;
 
 .about {
     background-color:#C58A86;
+    overflow: hidden;
 
 }
 
@@ -125,7 +126,6 @@ font-weight: bold;
     display: flex;
     flex-direction: vertical;
     margin-top: 20px;
-    m
 }
 
 #start {
