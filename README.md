@@ -1,4 +1,4 @@
-# portfolio
+# Akan Name Generator
 Akan Names
 ## Author
 By Vyonna Njenga
