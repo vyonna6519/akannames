@@ -22,9 +22,9 @@ To access this project on your local files, you can clone it using these steps
 ### Technologies Used
 1. HTML
 2. CSS
-3. Git
+3. Javascript
 4. Bootstrap
-5.javascript
+
 ### Live Site
 View [Live](https://vyonna6519.github.io/akannames/)
 ### License
