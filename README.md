@@ -6,6 +6,8 @@ By Vyonna Njenga
 This is a website application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name. 
 ### Screenshot
 ![Screenshot from 2021-12-13 09-25-12](https://user-images.githubusercontent.com/93370913/145762837-096d01e5-41f2-4fa2-bd35-14d03fbcff23.png)
+
+### UI/UX Design
 ### Prerequisities
 You need to have git installed
 You can install it with the following command in your terminal
