@@ -65,7 +65,7 @@ font-weight: bold;
 }
 
 .image {
-    background: url(/images/flag.jpg);
+    background: url(images/flag.jpg);
     background-size: cover;
     background-position: center;
 
