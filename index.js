@@ -32,6 +32,9 @@ function getBirthday() {
   
     } else if (gender === "Female") {
         var name = female[day];
+
+        var weekDay = week[day];
+        
         document.getElementById("Akanprint").innerHTML = " You Were Born on "  + "" + weekDay + " " + "Your Akan Name Is" + name;
     } else {
   
